@@ -1,0 +1,41 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.7",
+    "version": "1.0.0",
+    "id": "211faf25-e250-4cb8-9a8e-3aabc25bfd0b",
+    "packageName": "net.churnzero.teams",
+    "developer": {
+        "name": "ChurnZero",
+        "websiteUrl": "https://www.churnzero.net",
+        "privacyUrl": "https://www.churnzero.net/privacy-policy",
+        "termsOfUseUrl": "https://www.churnzero.net/terms-of-use"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "ChurnZero Test",
+        "full": "ChurnZero for Test environment"
+    },
+    "description": {
+        "short": "Looks stuff up",
+        "full": "Provides access to ChurnZero "
+    },
+    "accentColor": "#FFFFFF",
+    "bots": [
+        {
+            "botId": "8608cb5b-5fa1-4b37-912f-fd2ef663ed6d",
+            "scopes": [
+                "personal"
+            ],
+            "supportsFiles": false,
+            "isNotificationOnly": false
+        }
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ],
+    "validDomains": []
+}
