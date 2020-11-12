@@ -1,8 +1,8 @@
 {
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
     "manifestVersion": "1.8",
-    "version": "1.0.4",
-    "id": "a755e7f0-012d-4211-a6e1-379d2cbe8497",
+    "version": "1.0.5",
+    "id": "94c14afb-87c6-4cc0-903a-2f12061501af",
     "packageName": "net.churnzero.msteams",
     "developer": {
         "name": "ChurnZero",
@@ -20,7 +20,7 @@
     },
     "description": {
         "short": "Look up customer information on the go.",
-        "full": "ChurnZero is a real-time Customer Success platform that helps subscription businesses:\n\n- Fight churn\n- Expand current accounts\n- Increase product adoption\n- Optimize the customer experience\n\nConnect Microsoft Teams with ChurnZero to view and share insights about your customers, users and segments with your entire organization.\n\nThis integration requires a ChurnZero account."
+        "full": "ChurnZero is a real-time Customer Success platform that helps subscription businesses fight churn, expand current accounts, increase product adoption and optimize the customer experience.\n\nConnect Microsoft Teams with ChurnZero to view and share insights about your customers, users and segments with your entire organization.\n\nThis integration requires a ChurnZero account."
     },
     "accentColor": "#FFFFFF",
     "bots": [
