@@ -1,8 +1,8 @@
 {
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
     "manifestVersion": "1.8",
-    "version": "1.0.5",
-    "id": "94c14afb-87c6-4cc0-903a-2f12061501af",
+    "version": "1.0.6",
+    "id": "8608cb5b-5fa1-4b37-912f-fd2ef663ed6d",
     "packageName": "net.churnzero.msteams",
     "developer": {
         "name": "ChurnZero",
