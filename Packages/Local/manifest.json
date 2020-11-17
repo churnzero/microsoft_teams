@@ -1,8 +1,8 @@
 {
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
     "manifestVersion": "1.8",
-    "version": "1.0.2",
-    "id": "037cff29-38b5-42bc-80b0-030619d784ca",
+    "version": "1.0.3",
+    "id": "31f8a63a-aa78-4026-a19f-93f042944b86",
     "packageName": "net.churnzero.teams",
     "developer": {
         "name": "ChurnZero",
@@ -25,7 +25,7 @@
     "accentColor": "#FFFFFF",
     "bots": [
         {
-            "botId": "037cff29-38b5-42bc-80b0-030619d784ca",
+            "botId": "31f8a63a-aa78-4026-a19f-93f042944b86",
             "scopes": [
                 "personal"
             ],
