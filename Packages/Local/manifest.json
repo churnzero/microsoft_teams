@@ -1,14 +1,14 @@
 {
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
     "manifestVersion": "1.8",
-    "version": "1.0.3",
+    "version": "1.0.6",
     "id": "31f8a63a-aa78-4026-a19f-93f042944b86",
-    "packageName": "net.churnzero.teams",
+    "packageName": "net.churnzero.msteams",
     "developer": {
         "name": "ChurnZero",
-        "websiteUrl": "https://www.churnzero.net",
-        "privacyUrl": "https://www.churnzero.net/privacy-policy",
-        "termsOfUseUrl": "https://www.churnzero.net/terms-of-use"
+        "websiteUrl": "https://churnzero.net",
+        "privacyUrl": "https://churnzero.net/privacy-policy",
+        "termsOfUseUrl": "https://churnzero.net/terms-of-use"
     },
     "icons": {
         "color": "color.png",
@@ -19,8 +19,8 @@
         "full": "ChurnZero for Local development"
     },
     "description": {
-        "short": "Looks stuff up",
-        "full": "Provides access to ChurnZero "
+        "short": "Look up customer information on the go.",
+        "full": "ChurnZero is a real-time Customer Success platform that helps subscription businesses fight churn, expand current accounts, increase product adoption and optimize the customer experience.\n\nConnect Microsoft Teams with ChurnZero to view and share insights about your customers, users and segments with your entire organization.\n\nThis integration requires a ChurnZero account."
     },
     "accentColor": "#FFFFFF",
     "bots": [
