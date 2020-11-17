@@ -2,7 +2,7 @@
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
     "manifestVersion": "1.8",
     "version": "1.0.6",
-    "id": "31f8a63a-aa78-4026-a19f-93f042944b86",
+    "id": "c2e66b59-725d-4c56-8a0e-ee2587031d9f",
     "packageName": "net.churnzero.msteams",
     "developer": {
         "name": "ChurnZero",
@@ -15,8 +15,8 @@
         "outline": "outline.png"
     },
     "name": {
-        "short": "ChurnZero Local",
-        "full": "ChurnZero for Development"
+        "short": "ChurnZero",
+        "full": "ChurnZero"
     },
     "description": {
         "short": "Look up customer information on the go.",
@@ -25,7 +25,7 @@
     "accentColor": "#FFFFFF",
     "bots": [
         {
-            "botId": "31f8a63a-aa78-4026-a19f-93f042944b86",
+            "botId": "c2e66b59-725d-4c56-8a0e-ee2587031d9f",
             "scopes": [
                 "personal"
             ],
