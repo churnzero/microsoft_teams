@@ -8,7 +8,8 @@
         "name": "ChurnZero",
         "websiteUrl": "https://churnzero.net",
         "privacyUrl": "https://churnzero.net/privacy-policy",
-        "termsOfUseUrl": "https://churnzero.net/terms-of-use"
+        "termsOfUseUrl": "https://churnzero.net/terms-of-use",
+        "mpnId": "6321686"
     },
     "icons": {
         "color": "color.png",
