@@ -1,13 +1,13 @@
 {
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
     "manifestVersion": "1.8",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "id": "437c843c-f614-44d8-8207-a0e8df631ec0",
     "packageName": "net.churnzero.msteams",
     "developer": {
         "name": "ChurnZero",
         "websiteUrl": "https://churnzero.net",
-        "privacyUrl": "https://churnzero.net/privacy-policy",
+        "privacyUrl": "https://churnzero.net/churnzero-privacy-policy-202101",
         "termsOfUseUrl": "https://churnzero.net/terms-of-use",
         "mpnId": "6321686"
     },
